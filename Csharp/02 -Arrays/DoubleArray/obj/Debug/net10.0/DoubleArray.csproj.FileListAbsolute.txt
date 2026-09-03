@@ -1,0 +1,14 @@
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\02 -Arrays\DoubleArray\bin\Debug\net10.0\DoubleArray.exe
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\02 -Arrays\DoubleArray\bin\Debug\net10.0\DoubleArray.deps.json
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\02 -Arrays\DoubleArray\bin\Debug\net10.0\DoubleArray.runtimeconfig.json
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\02 -Arrays\DoubleArray\bin\Debug\net10.0\DoubleArray.dll
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\02 -Arrays\DoubleArray\bin\Debug\net10.0\DoubleArray.pdb
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\02 -Arrays\DoubleArray\obj\Debug\net10.0\DoubleArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\02 -Arrays\DoubleArray\obj\Debug\net10.0\DoubleArray.AssemblyInfoInputs.cache
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\02 -Arrays\DoubleArray\obj\Debug\net10.0\DoubleArray.AssemblyInfo.cs
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\02 -Arrays\DoubleArray\obj\Debug\net10.0\DoubleArray.csproj.CoreCompileInputs.cache
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\02 -Arrays\DoubleArray\obj\Debug\net10.0\DoubleArray.dll
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\02 -Arrays\DoubleArray\obj\Debug\net10.0\refint\DoubleArray.dll
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\02 -Arrays\DoubleArray\obj\Debug\net10.0\DoubleArray.pdb
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\02 -Arrays\DoubleArray\obj\Debug\net10.0\DoubleArray.genruntimeconfig.cache
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\02 -Arrays\DoubleArray\obj\Debug\net10.0\ref\DoubleArray.dll
