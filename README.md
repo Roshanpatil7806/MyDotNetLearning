@@ -92,7 +92,7 @@ Every topic, program, and project is part of the story.
 - [OOP Programs](./Basic/OOP/)
 - [Collection Programs](./Basic/Collections/)
 
----
+---  
 
 ## 🚀 Projects
 
