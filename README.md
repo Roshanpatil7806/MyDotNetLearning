@@ -18,7 +18,7 @@ Every topic, program, and project is part of the story.
 
 ## 💻 C# Programming
 
-- [C# Programming](./Basic/CSharp-Programming.md)
+- [C# Programming](./Basic/CSharp-Program.cs)
 - [C# Getting Started](./Basic/CSharp-Getting-Started.md)
 - [Variables and Data Types](./Basic/Variables-and-Data-Types.md)
 - [Operators](./Basic/Operators.md)
