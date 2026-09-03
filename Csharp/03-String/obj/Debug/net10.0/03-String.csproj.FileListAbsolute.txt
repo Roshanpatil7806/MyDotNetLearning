@@ -1,0 +1,15 @@
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\03-String\bin\Debug\net10.0\03-String.exe
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\03-String\bin\Debug\net10.0\03-String.deps.json
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\03-String\bin\Debug\net10.0\03-String.runtimeconfig.json
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\03-String\bin\Debug\net10.0\03-String.dll
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\03-String\bin\Debug\net10.0\03-String.pdb
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\03-String\obj\Debug\net10.0\03-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\03-String\obj\Debug\net10.0\03-String.AssemblyInfoInputs.cache
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\03-String\obj\Debug\net10.0\03-String.AssemblyInfo.cs
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\03-String\obj\Debug\net10.0\03-String.csproj.CoreCompileInputs.cache
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\03-String\obj\Debug\net10.0\03-String.sourcelink.json
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\03-String\obj\Debug\net10.0\03-String.dll
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\03-String\obj\Debug\net10.0\refint\03-String.dll
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\03-String\obj\Debug\net10.0\03-String.pdb
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\03-String\obj\Debug\net10.0\03-String.genruntimeconfig.cache
+C:\Users\Shree\OneDrive\Documents\Desktop\MyDotNetLearning\Csharp\03-String\obj\Debug\net10.0\ref\03-String.dll
